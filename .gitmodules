@@ -1,0 +1,3 @@
+[submodule "library/oauth2-php"]
+	path = library/oauth2-php
+	url = https://github.com/snehal77/oauth2-php.git
